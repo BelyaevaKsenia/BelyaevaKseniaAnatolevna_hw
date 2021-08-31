@@ -4,4 +4,5 @@ int main()
 {
     cout<<"Файл для выполнения задания 3."<<endl;
     cout<<"Comment was added"<<endl;
+    cout<<"My new rating"<<endl;
 }
